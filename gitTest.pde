@@ -11,5 +11,4 @@ String N = new String(tempN);
 N = String.format("%X", Integer.parseInt(N));
 
 println(N);
-println("Yeetyeet");
 exit();
